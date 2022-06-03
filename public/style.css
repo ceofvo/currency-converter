@@ -1,0 +1,22 @@
+label{
+    display: block;
+    font-weight: 800;
+}
+form div {
+    margin-bottom: 10px;
+    width: 45%;
+    box-sizing: border-box;
+}
+input[type="text"] {
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+input[type="submit"] {
+    background-color: #a52a2a;
+    color: #fff;
+    border-color: #a52a2a;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #a52a2a;
+}
